@@ -10,7 +10,10 @@ Use virtual cloud networks (VCNs) and the related components to build creative a
 
 - Shared services (log server, domain, file sharing) that are part of the IT infrastructure
 
-## Terraform Provider for Oracle Cloud Infrastructure
+## One-Click Deployment
+[![Deploy to Oracle Cloud](https://oci-resourcemanager-plugin.plugins.oci.oraclecloud.com/latest/deploy-to-oracle-cloud.svg)](https://console.us-phoenix-1.oraclecloud.com/resourcemanager/stacks/create?region=home&zipUrl=resource-manager/hub-spoke-20201019.zip)
+
+## Deploy Using the Terraform CLI
 The OCI Terraform Provider is now available for automatic download through the Terraform Provider Registry. 
 For more information on how to get started view the [documentation](https://www.terraform.io/docs/providers/oci/index.html) 
 and [setup guide](https://www.terraform.io/docs/providers/oci/guides/version-3-upgrade.html).
