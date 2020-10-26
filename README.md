@@ -11,7 +11,7 @@ Use virtual cloud networks (VCNs) and the related components to build creative a
 - Shared services (log server, domain, file sharing) that are part of the IT infrastructure
 
 ## One-Click Deployment
-[![Deploy to Oracle Cloud](https://oci-resourcemanager-plugin.plugins.oci.oraclecloud.com/latest/deploy-to-oracle-cloud.svg)](https://console.us-phoenix-1.oraclecloud.com/resourcemanager/stacks/create?region=home&zipUrl=https://github.com/kumar-dhanagopal/oci-arch-hub-spoke/blob/master/resource-manager/hub-spoke-20201019.zip)
+[![Deploy to Oracle Cloud](https://oci-resourcemanager-plugin.plugins.oci.oraclecloud.com/latest/deploy-to-oracle-cloud.svg)](https://console.us-phoenix-1.oraclecloud.com/resourcemanager/stacks/create?region=home&zipUrl=https://github.com/kumar-dhanagopal/oci-arch-hub-spoke/raw/master/resource-manager/hub-spoke-20201019.zip)
 
 ## Deploy Using the Terraform CLI
 The OCI Terraform Provider is now available for automatic download through the Terraform Provider Registry. 
